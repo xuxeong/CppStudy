@@ -9,7 +9,7 @@
 [-3 매개변수의 디폴트 값(Default Value)](Ch01-3.md)<br>
 [-4 인라인(inline) 함수](Ch01-4.md)<br>
 [-5 이름공간(namespace)에 대한 소개](Ch01-5.md)<br>
-[-6 OOP 단계별 프로젝트 01단계](Ch01-6.md)<br>
+[-6 OOP 단계별 프로젝트 01단계](Ch01-6.c)<br>
 
 ### Exercise
 [문제 1](문제01-1.md)<br>
